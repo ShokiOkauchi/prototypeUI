@@ -17,7 +17,8 @@
             style="@style/MyCustomTabStyle"
             tools:layout_editor_absoluteY="0dp"
             tools:layout_editor_absoluteX="0dp"
-            android:background="#808080">
+            android:background="#808080"
+            tools:ignore="MissingConstraints">
 
         <android.support.design.widget.TabItem
                 android:id="@+id/BigQuestion1"
